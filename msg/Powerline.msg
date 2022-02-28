@@ -1,2 +1,3 @@
-float32 angle
-geometry_msgs/Point32[] positions
+std_msgs/Header header
+geometry_msgs/Pose[] poses
+int count
